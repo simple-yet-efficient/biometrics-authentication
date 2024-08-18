@@ -44,3 +44,15 @@ public class YourScript : MonoBehaviour
 
 ## Version
 - **1.0.0**: Initial release.
+
+## License
+
+This plugin is licensed under [Standard Unity Asset Store EULA](https://unity.com/legal/as-terms).
+
+## Contact
+
+For any questions or support, feel free to reach out at [aqaddora96@gmail.com](mailto:aqaddora96@gmail.com).
+
+---
+
+Thank you for using the `Biometrics Authentication` plugin! We hope it simplifies the process of integrating Biometrics authentication into your Unity projects.
