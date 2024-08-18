@@ -30,7 +30,7 @@ public class YourScript : MonoBehaviour
 ```
 
 ## Example
-- For a complete example, refer to the demo scene included with the plugin. This scene provides a full implementation that you can build for all supported platforms.
+- For a complete example, import the sample from the Package Manager and refer to the demo scene. This scene provides a full implementation that you can build for all supported platforms.
 
 ## Notes for Each Platform
 - **iOS/macOS**: Works out-of-the-box with Face ID and Touch ID.
