@@ -1,6 +1,6 @@
-![alt text](https://i.ibb.co/nb1cpGT/sye-banner.png?raw=true)
+![banner](https://i.ibb.co/nb1cpGT/sye-banner.png?raw=true)
 # Biometric Authentication Plugin for Unity
-![alt text](https://i.ibb.co/56f4d7N/cover-image.png?raw=true)
+![cover-image](https://i.ibb.co/56f4d7N/cover-image.png?raw=true)
 ## Overview
 This plugin lets you add biometric authentication (like Face ID or Android Biometrics) to your Unity projects. It supports iOS, macOS, Android, and WebGL.
 
